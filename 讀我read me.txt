@@ -1,0 +1,14 @@
+1.
+"原始檔"資料夾內：
+projectorchid1.py，為使用SVM模型
+projectorchid1-1.py，為使用CNN模型
+
+
+2.
+"orchid-genus"資料夾內，為模型訓練資料集
+
+
+3.
+"畫面檔"資料夾內：
+SVM為SVM模型辨識結果，準確度37.25%
+CNN為CNN模型辨識結果，準確度47.06%
